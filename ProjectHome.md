@@ -1,0 +1,1 @@
+Original project is hosted at http://www.dexmac.com/index.php/software/114-plategatewayqt. I am attempting to modify the source code to read US plates, specifically Florida and add a few features.
